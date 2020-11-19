@@ -18,3 +18,10 @@ This folder contains 2 files.
   2. CS561_project_Report
      As a result of of the project this report has been produced to discuss all nitty gritty of the code.
      You can check out for more indetail working and performance of the model.
+     
+----------------------------------------------------------------------------------------------------------------
+If you needed the handwritten letter dataset , Then follow the link to download dataset in zip file 
+(file size is of 90 MB).
+onedrive link - https://1drv.ms/u/s!AneGigPAQg74gZNlJFAeTYWH4lehKw?e=lVcwMI
+After you download the data, you can mount it in your Gdrive along with colab and run the code. 
+(Disclaimer - You need to change the mounting link while reading the data in colab).
