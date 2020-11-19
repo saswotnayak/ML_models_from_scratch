@@ -1,4 +1,4 @@
-This reposatory contains the python code for Gaussian Naive Bayes implemented from scratch. 
+This folder contains the python code for Gaussian Naive Bayes implemented from scratch. 
 Code only uses pandas and numpy library to implement the model. Where as i have used scikit-learn 
 to compare the performance of my model against the scikit learn.
 
