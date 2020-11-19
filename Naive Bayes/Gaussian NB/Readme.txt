@@ -1,0 +1,16 @@
+This reposatory contains the python code for Gaussian Naive Bayes implemented from scratch. 
+Code only uses pandas and numpy library to implement the model. Where as i have used scikit-learn 
+to compare the performance of my model against the scikit learn.
+
+This is a term project of the course CS561, conducted by Dr. Satyanath Bhat at IIT GOA for winter semester 2020.
+You can see course lectures on youtube on Dr. Satyanath Bhats channel.
+Channel link is -https://www.youtube.com/channel/UClGbeCpvkVWcgITxWsz8ocA
+
+----------------------------------------------------------------------------------------------------------------
+This folder contains 2 files.
+  1. Handwritten Letter Classification.ipynb
+     This colab notebook has all the python code. I have used handwritten letters as dataset for my model.
+     From data prepping to model building to evaluation of performance all done in this code file.
+  2. CS561_project_Report
+     As a result of of the project this report has been produced to discuss all nitty gritty of the code.
+     You can check out for more indetail working and performance of the model.
